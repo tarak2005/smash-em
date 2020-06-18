@@ -1,1 +1,1 @@
-# smash-em
+# Box Class
